@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
+.main-page{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-left:40px;
+}
+.main-heading p  {
+font-weight: 700; 
+font-size: 47px;
+ line-height: 100%;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+.main-heading p h2{
+  margin: 2rem 0;
+  font-family: 'Outfit', sans-serif;
+  /* font-size: small; */
+}
+#focus-txt{
+  color:#F39036 ;
+}
+.buy-token{
+  margin: 1rem .1rem;
+  padding: 1rem 4rem;
+  background: #F39036;
+  border-radius: 31px;
+  color: white;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+  cursor: pointer;
+}

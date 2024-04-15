@@ -1,0 +1,31 @@
+.black-bg{
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.425);
+    display: flex;
+    justify-content: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 14px;
+    margin: auto;
+    background: #000235;
+    border-bottom:4px solid #F39036;
+    width: 40%;
+    height: 40%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.main h2 {
+    font-size: 30px;
+    font-weight: 900;
+    margin: 0 2px;
+    padding: 0;
+} 
+.main p{
+    margin: 10px;
+    font-size: 20px;
+}

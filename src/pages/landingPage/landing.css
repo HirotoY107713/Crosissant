@@ -1,0 +1,18 @@
+.bg-upper-ellipse{
+    position: absolute;
+    width: 1332px;
+    height: 1332px;
+    left: calc(50% - 1332px/2 - 553.5px);
+    top: -1390px;
+    background: #6FA7CB;
+    filter: blur(500px);
+}
+.bg-middle-ellipse{
+    position: absolute;
+    width: 1309px;
+    height: 1332px;
+    left: calc(50% - 1309px/2 + 1330px);
+    top: 513px;  
+    background: #FC8D2E;
+    filter: blur(500px);
+}
